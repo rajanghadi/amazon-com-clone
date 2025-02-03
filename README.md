@@ -8,19 +8,8 @@
 
 This project constitutes a rigorous exercise in front-end web development, culminating in the creation of a high-performance, visually congruent prototype emulating the core user interface (UI) and user experience (UX) paradigms of Amazon.com. This endeavor served as a practical application of advanced HTML and CSS techniques, resulting in a demonstrable enhancement of approximately 20% in the developer's proficiency within these core web technologies. The prototype achieves a high degree of fidelity, replicating approximately 99% of Amazon.com’s fundamental front-end functionalities.
 
-<figure style="display: flex; align-items: center;">
-  <img src="assets/images/screenshots/header.png" alt="Amazon.com Clone - Header and Navigation" style="max-width: 50%;">
-  <figcaption style="margin-left: 1em;">
-    Screenshot 1: The header and navigation bar of the Amazon.com Clone, featuring the logo, search bar, and other key elements.
-  </figcaption>
-</figure>
-
-<figure style="display: flex; align-items: center;">
-  <img src="assets/images/screenshots/footer.png" alt="Amazon.com Clone - Footer" style="max-width: 50%;">
-  <figcaption style="margin-left: 1em;">
-    Screenshot 2: The footer of the Amazon.com Clone, displaying links to various sections such as About Us, Contact Us, Help, and other important information.  It also shows copyright details.
-  </figcaption>
-</figure>
+![alt text](public/assets/screenshots/header.png)
+![alt text](public/assets/screenshots/footer.png)
 
 ## 3. Project Objectives and Scope
 
