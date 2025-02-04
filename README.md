@@ -10,13 +10,13 @@ This project constitutes a rigorous exercise in front-end web development, culmi
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="public/assets/images/screenshots/header.png" alt="Amazon.com Clone - Header and Navigation" style="max-width: 50%;">
-  <figcaption style="text-align: center; margin-top: 1em;">   Screenshot 1: The header and navigation bar of the Amazon.com Clone, featuring the logo, search bar, and other key elements.
+  <figcaption style="text-align: center; margin-top: 1em;"> Screenshot 1: The header and navigation bar of the Amazon.com Clone, featuring the logo, search bar, and other key elements.
   </figcaption>
 </figure>
 
 <figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="public/assets/images/screenshots/footer.png" alt="Amazon.com Clone - Footer" style="max-width: 50%;">
-  <figcaption style="text-align: center; margin-top: 1em;">  Screenshot 2: The footer of the Amazon.com Clone, displaying links to various sections such as About Us, Help, and other important information. It also shows copyright details.
+  <figcaption style="text-align: center; margin-top: 1em;"> Screenshot 2: The footer of the Amazon.com Clone, displaying links to various sections such as About Us, Help, and other important information. It also shows copyright details.
   </figcaption>
 </figure>
 
